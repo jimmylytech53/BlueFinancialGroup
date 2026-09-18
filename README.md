@@ -9,4 +9,4 @@ Blue Financial Group is locating in Salt Lake City, Utah and it has been around 
 </p>
 
 
-<img width="984" height="853" alt="image" src="https://github.com/user-attachments/assets/a6bcec01-9869-4d3a-b789-4971e70a3455" />
+<img align="center" width="850" height="600" alt="image" src="https://github.com/user-attachments/assets/a6bcec01-9869-4d3a-b789-4971e70a3455" />
