@@ -1,6 +1,6 @@
-# BlueFinancialGroup
+# BlueStone Financial Group
 
-<!--All the details here in BlueFinancialGroup is fiction and only use for educational purpose -->
+<!--All the details here in BlueFinancia lGroup is fiction and only use for educational purpose -->
 
 <p>
 Thomas graduated with a bachelor's degree in Computer Science from University of Utah and worked at Microsoft as a software engineer in 1985. 
